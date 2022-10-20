@@ -1,0 +1,14 @@
+[package]
+name = 'ENTCoin'
+version = '1.0.0'
+[dependencies.AptosFramework]
+git = 'https://github.com/aptos-labs/aptos-core.git'
+rev = 'mainnet'
+subdir = 'aptos-move/framework/aptos-framework'
+
+[addresses]
+std = "0x1"
+aptos_std = "0x1"
+aptos_framework = "0x1"
+ent = "0xede6a663c9039968d5d26ec77ac8aa7db3d3d30f63b6c8ba41d9a4477174a470"
+
