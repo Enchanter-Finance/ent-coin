@@ -10,5 +10,5 @@ subdir = 'aptos-move/framework/aptos-framework'
 std = "0x1"
 aptos_std = "0x1"
 aptos_framework = "0x1"
-ent = "0xede6a663c9039968d5d26ec77ac8aa7db3d3d30f63b6c8ba41d9a4477174a470"
+ent = "0xef65e7861822d198e1c5b63f84faf334226cc2e1f365fd1cc54b7c1a15ab667e"
 
